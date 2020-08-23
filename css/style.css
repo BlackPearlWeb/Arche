@@ -1228,6 +1228,8 @@ span {
     background-attachment: fixed;
     position: relative;
     z-index: 1;
+    display: flex;
+    color: aliceblue;
 }
 
 #footerPart::after {
@@ -1249,10 +1251,9 @@ span {
     padding-top: 55px;
 }
 
-.footerHeading {
-    border-bottom: 1px solid #d9b257;
-    padding-bottom: 30px;
-}
+
+
+
 
 
 /* Footer Part Emd */

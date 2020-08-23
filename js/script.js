@@ -53,13 +53,13 @@ $(function () {
 
     //    Service Slider Start 
 
-    $('.serviceImgSlider').slick({
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        dots: true,
-        arrows: false,
-        infinite: true
-    });
+//    $('.serviceImgSlider').slick({
+//        slidesToShow: 1,
+//        slidesToScroll: 1,
+//        dots: true,
+//        arrows: false,
+//        infinite: true
+//    });
 
     //    Service Slider End 
 
